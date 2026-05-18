@@ -1,0 +1,16 @@
+# Secret Environment Variables (DO NOT REMOVE)
+.env
+
+# Virtual Environment Folder
+venv/
+env/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
+Thumbs.db
